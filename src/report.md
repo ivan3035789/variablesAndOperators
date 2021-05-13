@@ -11,11 +11,6 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* 
-* 
-
-
 В качестве тестовых данных использовались данные: [Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 * int price = 2_000_000_000 ,     int price = 2_000_000_000
